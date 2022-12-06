@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MashaSam.github.io/Home-work-8-1.git",
+  "homepage": "https://MashaSam.github.io/Home-work-8-1",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Home-work-8-1/"
